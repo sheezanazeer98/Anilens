@@ -80,5 +80,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by the anime and manga community
 
 ## Contact
-Adrian Grzybek - adrian.grzybek00@gmail.com
-Project Link: https://github.com/xkarox/anilens
+Sheeza Nazeer - sheezanazeer98gmail.com
+
